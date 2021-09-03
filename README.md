@@ -4,7 +4,8 @@ Novels Site backend. RESTful API on Laravel
 2. Install Docker-Compose
 3. Clone the repository
 4. Run this commands:
- ```cd novelsBackend
+ ```
+    cd novelsBackend
     cd docker 
     docker-compose up
  ```
